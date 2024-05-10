@@ -151,3 +151,8 @@ releases/
 *.swp
 *.vim
 tags
+
+# language server protocol #
+############################
+.cache
+compile_commands.json
